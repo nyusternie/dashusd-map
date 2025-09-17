@@ -1,6 +1,6 @@
 {
-  "name": "discover-cash",
-  "version": "23.9.7",
+  "name": "dashusd-map",
+  "version": "25.9.17",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
